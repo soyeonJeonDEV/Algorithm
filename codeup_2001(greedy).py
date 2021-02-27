@@ -1,3 +1,5 @@
+#codeup_2001 https://codeup.kr/problem.php?id=2001
+
 pasta=[]
 for i in range(3):
 	pasta.append(float(input()))
