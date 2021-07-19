@@ -10,18 +10,15 @@ def cal_dist(num, now_l, now_r, pos, HANDED):
     if dist_l == dist_r:
         return 'R' if HANDED == 'right' else 'L'
     return 'R' if dist_l > dist_r else 'L'
-<<<<<<< HEAD
-  
-=======
 
 
->>>>>>> 3442cf33d84824aac78a847a293ec787d059e75b
 def solution(numbers, hand):
     HANDED = hand
     position = {1:(0,0),2:(0,1),3:(0,2),
                 4:(1,0),5:(1,1),6:(1,2),
                 7:(2,0),8:(2,1),9:(2,2),
               '*':(3,0),0:(3,1),'#':(3,2)}
+              
     left,right = set([1,4,7]), set([3,6,9])
     now_l, now_r = '*','#'
     result = ''
@@ -38,10 +35,5 @@ def solution(numbers, hand):
                 now_l = num
             else :
                 now_r = num
-<<<<<<< HEAD
+
     return result
-
-=======
-
-    return result    
->>>>>>> 3442cf33d84824aac78a847a293ec787d059e75b
