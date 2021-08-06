@@ -13,3 +13,4 @@ def solution(price, money, count):
         return 0
     else:
         return total - money 
+
