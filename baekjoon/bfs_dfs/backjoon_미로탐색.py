@@ -19,7 +19,11 @@ def bfs(x,y):
     for i in range(4):
       nx = x + dx[i]
       ny = y + dy[i]
+<<<<<<< HEAD
       if 0< nx <= n and 0 < ny <= m:
+=======
+      if 0< nx <= n and o < ny <= m:
+>>>>>>> 5fba878666ee95be4e927f16de77e5cfe4e0f58e
         if graph[nx][ny] == 1 and visited[nx][ny] == 0:
           queue.append([nx,ny])
           visited[nx][ny] = visited[x][y] + 1
