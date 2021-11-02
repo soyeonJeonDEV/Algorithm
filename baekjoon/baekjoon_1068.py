@@ -1,10 +1,14 @@
+#https://www.acmicpc.net/problem/1068
+#트리
+
 n = int(input())
 trees = list(map(int,input().split()))
 node = int(input())
-tree = []
+tree = {}
+for i in range(n):
+    if trees[i] in tree:
 
-for i in range(trees):
-    if trees[i]>=0:
-        tree[trees[i]] = i
 
-print(tree)
+
+print(trees)
+
