@@ -10,6 +10,5 @@ def solution(n):
                 n -= 1
                 cnt += 1
     else:
-        cnt = 1
-            
+        cnt = 1  
     return cnt
