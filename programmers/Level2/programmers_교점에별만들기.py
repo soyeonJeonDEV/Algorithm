@@ -33,3 +33,4 @@ def solution(line):
         answer[y_max - y][x - x_min] = '*'
     return [''.join(s) for s in answer]
     
+  
