@@ -1,6 +1,6 @@
 #https://programmers.co.kr/learn/courses/30/lessons/87377?language=python3
 #교점에 별 만들기
-#런타임 에러
+#런타임 에러(x,y의 최소값 최대값이 틀려 인덱스값 오류로 인해 런타임 에러 발생) -> 수정 
 from itertools import combinations
 def solution(line):
     d = []
@@ -13,24 +13,17 @@ def solution(line):
 
         if abs(x % 1) == 0 and abs(y % 1) == 0 and [x,y] not in d:
             d.append([int(x),int(y)])
-            
-        x_min, y_min,x_max,y_max = d[0][0],d[0][1],d[0][0],d[0][1]
+    x_list = []
+    y_list = []
     for i in d:
-        if x_min > i[0]:
-            x_min = i[0]
-        if x_max < i[0]:
-            x_max = i[0]
-        if y_min > i[1]:
-            y_min = i[1]
-        if y_max < i[1]:
-            y_max = i[1]
-    n = x_max - x_min
-    m = y_max - y_min
-
+        x_list.append(i[0])
+        y_list.append(i[1])
+    n = max(x_list) - min(x_list)
+    m = max(y_list) - min(y_list)
+    
     answer = [['.']*(n+1) for _ in range(m+1)]
     
-    for x, y in d:
-        answer[y_max - y][x - x_min] = '*'
-    return [''.join(s) for s in answer]
-    
-  
+    for x,y in d:
+        answer[max(y_list)-y][x-min(x_list)] = '*'
+        
+    return ["".join(s) for s in answer]
