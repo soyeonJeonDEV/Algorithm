@@ -32,6 +32,7 @@ for i in range(1, tree+1):
     trees[b].append(a)
 
 visited[r1] = True
+
 dfs(r1)
 
 print(count)

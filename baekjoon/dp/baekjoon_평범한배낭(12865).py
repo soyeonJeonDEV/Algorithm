@@ -1,6 +1,6 @@
 #https://www.acmicpc.net/problem/12865
 #평범한 배낭
-
+#답보고 이해
 n, k = map(int, input().split())
 
 bag = [list(map(int,input().split())) for _ in range(n)]
