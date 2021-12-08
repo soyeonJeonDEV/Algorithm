@@ -29,7 +29,7 @@ Level 1, Level 2, Level 3 위주의 문제풀이 입니다.
 |[k번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)|☆|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/programmers/Level1/programmers_k.py)
 |[키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)|☆|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/programmers/Level1/programmers_keypad.py)
 |[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)|☆|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/programmers/Level1/programmers_maraton.py)
-|[짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)|△|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/programmers/Level1/programmers_match.py)
+|[짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/programmers/Level1/programmers_match.py)
 |[행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/programmers/Level1/programmers_matrixplus.py)
 |[신규아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/programmers/Level1/programmers_new_id.py)
 |[정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/programmers/Level1/programmers_numdesc.py)
