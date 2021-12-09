@@ -1,3 +1,5 @@
+#https://www.acmicpc.net/problem/1978
+#소수 찾기
 n = int(input())
 ls = list(map(int,input().split()))
 result = 0

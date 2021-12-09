@@ -1,3 +1,5 @@
+#https://www.acmicpc.net/problem/10773
+#제로
 n = int(input())
 answer = []
 for i in range(n):
