@@ -1,5 +1,5 @@
-#피보나치수 1001
-#
+#피보나치 함수
+#https://www.acmicpc.net/problem/1003
 
 cnt0 = [1,0]
 cnt1 = [0,1]

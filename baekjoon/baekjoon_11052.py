@@ -1,3 +1,6 @@
+#https://www.acmicpc.net/problem/11052
+#카드 구매하기
+
 n = int(input())
 prices = [0] + list(map(int,input().split()))
 dp = [0]*(n+1)
