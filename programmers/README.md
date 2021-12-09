@@ -7,14 +7,14 @@ Level 1, Level 2, Level 3 위주의 문제풀이 입니다.
 * 문제 : 클릭시 문제 페이지로 넘어갑니다.
 * 상태 
   * ○ : 성공
-  * ☆ : 답보고 이해
+  * ☆ : 답보고 작성(주석 추가)
   * △ : 부분 정답 or 시간초과
 
 ## [Level 1](https://github.com/soyeonJeonDEV/Algorithm/tree/master/programmers/Level1)
 
 |문제|상태|풀이 링크|
 |:----------------|:----:|:-----:|
-|[2016년](https://programmers.co.kr/learn/courses/30/lessons/12901) |○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/programmers/Level1/programmers_2016%EB%85%84.py)
+|[2016년](https://programmers.co.kr/learn/courses/30/lessons/12901) |○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/programmers/Level1/programmers_2016.py)
 |[3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935?language=python3) |○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/programmers/Level1/programmers_3.py)
 |[같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/programmers/Level1/programmers_NoSameNum.py)
 |[시저암호](https://programmers.co.kr/learn/courses/30/lessons/12926)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/programmers/Level1/programmers_caesar_cipher.py)
@@ -43,9 +43,9 @@ Level 1, Level 2, Level 3 위주의 문제풀이 입니다.
 |[두개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/programmers/Level1/programmers_twopickupplus.py)
 |[부족한금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/programmers/Level1/programmers_weekly1.py)
 |[x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/programmers/Level1/programmers_xn.py)
-|[나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/programmers/Level1/programmers_%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%801%EC%9D%B4%EB%90%98%EB%8A%94%EC%88%98%EC%B0%BE%EA%B8%B0.py)
-|[소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)|☆|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/programmers/Level1/programmers_%EC%86%8C%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0.py)
-|[최대 공약수와 최소 공배수](https://programmers.co.kr/learn/courses/30/lessons/12940)|☆|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/programmers/Level1/programmers_%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.py)
+|[나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/programmers/Level1/programmers_remainder1.py)
+|[소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)|☆|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/programmers/Level1/programmers_minority.py)
+|[최대 공약수와 최소 공배수](https://programmers.co.kr/learn/courses/30/lessons/12940)|☆|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/programmers/Level1/programmers_maximun_minimun.py)|
 
 ## [Level 2](https://github.com/soyeonJeonDEV/Algorithm/tree/master/programmers/Level2)
 
