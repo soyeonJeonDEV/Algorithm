@@ -44,7 +44,7 @@ Level 1, Level 2, Level 3 위주의 문제풀이 입니다.
 |[부족한금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/programmers/Level1/programmers_weekly1.py)
 |[x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/programmers/Level1/programmers_xn.py)
 |[나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/programmers/Level1/programmers_remainder1.py)
-|[소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)|☆|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/programmers/Level1/programmers_minority.py)
+|[소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/programmers/Level1/programmers_minority.py)
 |[최대 공약수와 최소 공배수](https://programmers.co.kr/learn/courses/30/lessons/12940)|☆|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/programmers/Level1/programmers_maximun_minimun.py)|
 
 ## [Level 2](https://github.com/soyeonJeonDEV/Algorithm/tree/master/programmers/Level2)
