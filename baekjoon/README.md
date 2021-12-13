@@ -53,6 +53,8 @@
 |[피보나치 수3](https://www.acmicpc.net/problem/2749)|△|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/baekjoon_2749.py)|
 |[피보나치 수5](https://www.acmicpc.net/problem/10870)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/baekjoon_10870.py)|
 |[rgb 거리](https://www.acmicpc.net/problem/1149)|☆|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/baekjoon_1149.py)|
+|[일곱난쟁이](https://www.acmicpc.net/problem/2309)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/baekjoon_2309.py)|
+|[분해합](https://www.acmicpc.net/problem/2231)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/baekjoon_2231.py)|
 <!-- |[]()| |[바로가기]()|
 |[]()| |[바로가기]()|
 |[]()| |[바로가기]()|
