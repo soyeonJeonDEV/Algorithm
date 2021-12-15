@@ -9,23 +9,26 @@ input = sys.stdin.readline
 n = int(input())
 board = [list(map(str,input())) for _ in range(n)]
 
-def check(arr):
-    cnt = 0
-    for i in range(len(arr)):
-        cntRow = 1
-        cntCol = 1
-        for j in range(len(arr)-1):
-            if arr[i][j] == arr[i][j+1]:
-                cntRow += 1
-            if arr[j][i] == arr[j+1][i]:
-                cntCol += 1
-        cnt = max(cnt, cntRow, cntCol)
-        if cnt == len(board):
-            break
-    return cnt
+def checkRow(arr, line):
+    cntRow = 1
+    for i in range(len(arr)-1):
+        if arr[line][i] == arr[line][i+1]:
+            cntRow += 1
+    return cntRow
 
+def checkCol(arr, line):
+    cntCol = 1
+    for i in range(len(arr)-1):
+        if arr[i][line] == arr[i+1][line]:
+            cntCol += 1
+    return cntCol
 
-answer = check(board)
+answer = 0
+a = 0
+b = 0
+
+for i in range(len(board)):
+    answer = max(checkRow(board,i), checkCol(board,i), answer)
 
 #행과 열의 사탕을 swap한 값
 for i in range(len(board)):
@@ -34,10 +37,13 @@ for i in range(len(board)):
         column = copy.deepcopy(board)
         if board[i][j] != board[i][j+1]:
             row[i][j], row[i][j+1] = board[i][j+1], board[i][j]
-            a = check(row)
-            answer = max(a, answer)
+            a = checkRow(row,i)
+            b = checkCol(row,j)
+            answer = max(a,b,answer)
         if board[j][i] != board[j+1][i]:
             column[j][i], column[j+1][i] = board[j+1][i], board[j][i]
-            a = check(column)
-            answer = max(a,answer)
+            a = checkRow(column,i)
+            b = checkCol(column,j)
+            answer = max(a,b,answer)
+
 print(answer)
