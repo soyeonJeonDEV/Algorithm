@@ -56,6 +56,8 @@
 |[일곱난쟁이](https://www.acmicpc.net/problem/2309)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/baekjoon_2309.py)|
 |[분해합](https://www.acmicpc.net/problem/2231)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/baekjoon_2231.py)|
 |[사탕 게임](https://www.acmicpc.net/problem/3085)|☆|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/baekjoon_3085.py)|
+|[유레카 게임](https://www.acmicpc.net/problem/10448)|☆|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/baekjoon_10448.py)|
+|[캠핑](https://www.acmicpc.net/problem/4796)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/baekjoon_4796.py)|
 <!-- |[]()| |[바로가기]()|
 |[]()| |[바로가기]()|
 |[]()| |[바로가기]()|
