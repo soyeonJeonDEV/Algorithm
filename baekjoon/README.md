@@ -59,6 +59,7 @@
 |[유레카 게임](https://www.acmicpc.net/problem/10448)|☆|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/baekjoon_10448.py)|
 |[캠핑](https://www.acmicpc.net/problem/4796)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/baekjoon_4796.py)|
 |[블랙잭](https://www.acmicpc.net/problem/2798)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/baekjoon_2798.py)|
+|[덩치](https://www.acmicpc.net/problem/7568)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/baekjoon_7568.py)|
 <!-- |[]()| |[바로가기]()|
 |[]()| |[바로가기]()|
 |[]()| |[바로가기]()|
