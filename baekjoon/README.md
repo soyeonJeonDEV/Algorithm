@@ -8,6 +8,12 @@
   * ☆ : 답보고 작성(주석 추가)
   * △ : 부분 정답 or 시간초과
 
+## Level Silver 
+|문제|상태|풀이 링크|레벨|
+|:-----------------------------------|:----:|:-----:|:-----:|
+|[그림](https://www.acmicpc.net/problem/1926)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/silver/silver1/baekjoon_1926.py)|![](https://static.solved.ac/tier_small/10.svg)|
+
+
 |문제|상태|풀이 링크|
 |:-----------------------------------|:----:|:-----:|
 |[Z](https://www.acmicpc.net/problem/1074)|☆|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/baekjoon_1074.py)
@@ -61,6 +67,7 @@
 |[블랙잭](https://www.acmicpc.net/problem/2798)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/baekjoon_2798.py)|
 |[덩치](https://www.acmicpc.net/problem/7568)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/baekjoon_7568.py)|
 |[영화감독 숌](https://www.acmicpc.net/problem/1436)|☆|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/baekjoon_1436.py)|
+|[01타일](https://www.acmicpc.net/problem/1904)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/baekjoon_1904.py)|
 <!-- |[]()| |[바로가기]()|
 |[]()| |[바로가기]()|
 |[]()| |[바로가기]()|
