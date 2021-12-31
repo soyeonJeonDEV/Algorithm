@@ -11,8 +11,17 @@
 ## Level Silver 
 |문제|상태|풀이 링크|레벨|
 |:-----------------------------------|:----:|:-----:|:-----:|
-|[그림](https://www.acmicpc.net/problem/1926)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/silver/silver1/baekjoon_1926.py)|![](https://static.solved.ac/tier_small/10.svg)|
+|[그림](https://www.acmicpc.net/problem/1926)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/silver/silver1/baekjoon_1926.py)|silver 1|
+|[단지번호 붙이기](https://www.acmicpc.net/problem/2667)|○|[바로가기]()|silver 1|
+|[수열](https://www.acmicpc.net/problem/2559)|☆|[바로가기]()|silver 3|
+|[바이러스](https://www.acmicpc.net/problem/2606)|○|[바로가기]()|silver 3 |
+|[수 찾기](https://www.acmicpc.net/problem/1920)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/silver/baekjoon_1920.py)|silver 4|
 
+<!-- |[]()| |[바로가기]()| |
+|[]()| |[바로가기]()| |
+|[]()| |[바로가기]()| |
+|[]()| |[바로가기]()| |
+|[]()| |[바로가기]()| | -->
 
 |문제|상태|풀이 링크|
 |:-----------------------------------|:----:|:-----:|
