@@ -8,14 +8,30 @@
   * ☆ : 답보고 작성(주석 추가)
   * △ : 부분 정답 or 시간초과
 
+## Level Gold 
+|문제|상태|풀이 링크|레벨|
+|:-----------------------------------|:----:|:-----:|:-----:|
+|[알파벳](https://www.acmicpc.net/problem/1987)|☆|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/gold/baekjoon_1987.py)|gold 4|
+|[적록색약](https://www.acmicpc.net/problem/10026)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/gold/baekjoon_10026.py)|gold 5|
+<!-- |[]()| |[바로가기]()| |
+|[]()| |[바로가기]()| |
+|[]()| |[바로가기]()| |
+|[]()| |[바로가기]()| |
+|[]()| |[바로가기]()| | -->
+
 ## Level Silver 
 |문제|상태|풀이 링크|레벨|
 |:-----------------------------------|:----:|:-----:|:-----:|
 |[그림](https://www.acmicpc.net/problem/1926)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/silver/silver1/baekjoon_1926.py)|silver 1|
-|[단지번호 붙이기](https://www.acmicpc.net/problem/2667)|○|[바로가기]()|silver 1|
-|[수열](https://www.acmicpc.net/problem/2559)|☆|[바로가기]()|silver 3|
-|[바이러스](https://www.acmicpc.net/problem/2606)|○|[바로가기]()|silver 3 |
+|[안전 영역](https://www.acmicpc.net/problem/2468)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/silver/baekjoon_2468.py)|silver 1|
+|[단지번호 붙이기](https://www.acmicpc.net/problem/2667)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/silver/baekjoon_2667.py)|silver 1|
+|[유기농 배추](https://www.acmicpc.net/problem/1012)|○|[바로가기]()|silver 2|
+|[섬의 개수](https://www.acmicpc.net/problem/4963)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/silver/baekjoon_4963.py)|silver 2|
+|[연결 요소의 개수](https://www.acmicpc.net/problem/11724)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/silver/baekjoon_11724.py)|silver 2|
+|[수열](https://www.acmicpc.net/problem/2559)|☆|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/silver/baekjoon_2559.py)|silver 3|
+|[바이러스](https://www.acmicpc.net/problem/2606)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/silver/baekjoon_2606.py)|silver 3 |
 |[수 찾기](https://www.acmicpc.net/problem/1920)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/silver/baekjoon_1920.py)|silver 4|
+
 
 <!-- |[]()| |[바로가기]()| |
 |[]()| |[바로가기]()| |
