@@ -23,6 +23,7 @@
 ## Level Silver 
 |문제|상태|풀이 링크|레벨|
 |:-----------------------------------|:----:|:-----:|:-----:|
+|[효율적인 해킹](https://www.acmicpc.net/problem/1325)|△|[바로가기]()|silver 1|
 |[그림](https://www.acmicpc.net/problem/1926)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/silver/silver1/baekjoon_1926.py)|silver 1|
 |[안전 영역](https://www.acmicpc.net/problem/2468)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/silver/baekjoon_2468.py)|silver 1|
 |[단지번호 붙이기](https://www.acmicpc.net/problem/2667)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/silver/baekjoon_2667.py)|silver 1|
