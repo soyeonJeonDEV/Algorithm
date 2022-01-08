@@ -11,7 +11,7 @@
 ## Level Gold 
 |문제|상태|풀이 링크|레벨|
 |:-----------------------------------|:----:|:-----:|:-----:|
-|[로봇청소기](#https://www.acmicpc.net/problem/14503)|☆|[바로가기]()| |
+|[로봇청소기](#https://www.acmicpc.net/problem/14503)|☆|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/gold/baekjoon_14503.py)|gold 2|
 |[알파벳](https://www.acmicpc.net/problem/1987)|☆|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/gold/baekjoon_1987.py)|gold 4|
 |[적록색약](https://www.acmicpc.net/problem/10026)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/gold/baekjoon_10026.py)|gold 5|
 <!-- |[]()| |[바로가기]()| |
@@ -23,11 +23,16 @@
 ## Level Silver 
 |문제|상태|풀이 링크|레벨|
 |:-----------------------------------|:----:|:-----:|:-----:|
-|[효율적인 해킹](https://www.acmicpc.net/problem/1325)|△|[바로가기]()|silver 1|
+|[전쟁-전투](https://www.acmicpc.net/problem/1303)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/silver/baekjoon_1303.py)|silver 1|
+|[효율적인 해킹](https://www.acmicpc.net/problem/1325)|△|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/silver/baekjoon_1325.py)|silver 1|
+|[음식물 피하기](https://www.acmicpc.net/problem/1743)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/silver/baekjoon_1743.py)|silver 1|
 |[그림](https://www.acmicpc.net/problem/1926)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/silver/silver1/baekjoon_1926.py)|silver 1|
+|[미로 탐색](https://www.acmicpc.net/problem/2178)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/silver/baekjoon_2178.py)|silver 1|
 |[안전 영역](https://www.acmicpc.net/problem/2468)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/silver/baekjoon_2468.py)|silver 1|
 |[단지번호 붙이기](https://www.acmicpc.net/problem/2667)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/silver/baekjoon_2667.py)|silver 1|
-|[유기농 배추](https://www.acmicpc.net/problem/1012)|○|[바로가기]()|silver 2|
+|[A -> B](https://www.acmicpc.net/problem/16953)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/silver/baekjoon_16953.py)|silver 1|
+|[유기농 배추](https://www.acmicpc.net/problem/1012)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/silver/baekjoon_1012.py)|silver 2|
+|[DFS와 BFS](https://www.acmicpc.net/problem/126)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/silver/baekjoon_1260.py)|silver 2|
 |[섬의 개수](https://www.acmicpc.net/problem/4963)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/silver/baekjoon_4963.py)|silver 2|
 |[동전 0](https://www.acmicpc.net/problem/11047)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/baekjoon_11047.py)|silver 2|
 |[연결 요소의 개수](https://www.acmicpc.net/problem/11724)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/silver/baekjoon_11724.py)|silver 2|
