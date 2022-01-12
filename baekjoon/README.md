@@ -11,11 +11,11 @@
 ## Level Gold 
 |문제|상태|풀이 링크|레벨|
 |:-----------------------------------|:----:|:-----:|:-----:|
-|[로봇청소기](#https://www.acmicpc.net/problem/14503)|☆|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/gold/baekjoon_14503.py)|gold 2|
+|[로봇청소기](https://www.acmicpc.net/problem/14503)|☆|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/gold/baekjoon_14503.py)|gold 2|
 |[알파벳](https://www.acmicpc.net/problem/1987)|☆|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/gold/baekjoon_1987.py)|gold 4|
 |[적록색약](https://www.acmicpc.net/problem/10026)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/gold/baekjoon_10026.py)|gold 5|
-|[숨바꼭질 2](https://www.acmicpc.net/problem/12851)|☆|[바로가기]()|gold 5|
-|[숨바꼭질 3](https://www.acmicpc.net/problem/13549)|○|[바로가기]()|gold 5|
+|[숨바꼭질 2](https://www.acmicpc.net/problem/12851)|☆|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/gold/baekjoon_12851.py)|gold 5|
+|[숨바꼭질 3](https://www.acmicpc.net/problem/13549)|○|[바로가기](https://github.com/soyeonJeonDEV/Algorithm/blob/master/baekjoon/gold/baekjoon_13549.py)|gold 5|
 <!-- |[]()| |[바로가기]()| |
 |[]()| |[바로가기]()| |
 |[]()| |[바로가기]()| |
